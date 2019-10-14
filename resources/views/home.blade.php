@@ -62,6 +62,9 @@
                 </div>
             </div>
         </div>
+        <div class="col text-center">
+            <iframe src="https://onedrive.live.com/embed?cid=F4E00FA22B0D5C93&resid=F4E00FA22B0D5C93%2145712&authkey=AOSFuNW6s_UAplc" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+        </div>
     </div>
 @endsection
 

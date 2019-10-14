@@ -23,7 +23,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <button class="btn prev-btn" id="prev-btn">
-                                    <span class="faW fa-step-backward" aria-hidden="true"></span>
+                                    <span class="fa fa-step-backward" aria-hidden="true"></span>
                                 </button>
                                 <button class="btn play-btn" id="play-btn">
                                     <span class="fa fa-play" aria-hidden="true"></span>
